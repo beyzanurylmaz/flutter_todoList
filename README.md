@@ -15,4 +15,5 @@
 ## Tamamlandı
 ![tamamlandı](https://user-images.githubusercontent.com/90965586/233090376-4ab3b912-e7cc-4064-9373-ac86ec8b8829.png)
 
-## Çarpı ikonuna tıklandığında eklenen görevi siler.
+## Kayıt Silme
+Çarpı ikonuna tıklandığında eklenen kaydı siler.
